@@ -1,0 +1,17 @@
+-lib hxnodejs
+-main tests.RunAll
+
+-lib markdown
+-cp ./
+-cp inlinecss
+-cp src
+-lib tink_anon
+-lib utest
+-D no-deprecation-warnings
+-lib asys
+-D js-es=6
+-debug
+#--js run.js
+--js test.js
+
+#--interp

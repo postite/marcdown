@@ -1,0 +1,10 @@
+- **7 Septembre** : journée de rentrée (lieu commun)
+- **5-6 octobre** : WE campé (lieux séparés)
+- **16-17 Novembre** : We en dur Lux, Journée Loux, WE en dur Ecléx (lieux séparés)
+- **14 – 15 Décembre** : WE en dur Lux et Loux, Journée Ecléx (lieux séparés)
+- **25-26 Janvier** : Journée Lux, WE en dur Loux et Ecléx (lieux séparés)
+- **Février** : rien
+- **29 Février** – 1er mars : WE en dur (lieux séparés)
+- **28 – 29 Mars** : WE campé (lieux séparés)
+- **25 – 26 avril** : WE campé (lieux séparés)
+- **30 -31 Mai – 1er Juin** : WE campé de 3 jours, parents invités le samedi 30 (lieu commun).

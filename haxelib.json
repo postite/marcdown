@@ -1,0 +1,17 @@
+{
+   "name": "markdown conversion",
+   "url" : "https://github.com/jasononeil/useless/",
+   "license": "MIT",
+   "tags": ["markdown" ],
+   "description": "",
+   "version": "0.0.0",
+   "classPath": "src/",
+   "releasenote": "Initial release, everything is working correctly.",
+   "contributors": ["postite"],
+   "dependencies": {
+     "markdown": "http://github.com/postite/haxe-markdown#a45355af4d258e9e89238d7877e73270e68b3c72" ,
+     "tink_core":"",
+     "tink_anon":""
+   },
+   "main": "tools.Main"
+ }

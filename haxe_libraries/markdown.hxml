@@ -1,0 +1,4 @@
+-D markdown=1.0.1
+# @install: lix --silent download "gh://github.com/postite/haxe-markdown#a45355af4d258e9e89238d7877e73270e68b3c72" into markdown/1.0.1/github/a45355af4d258e9e89238d7877e73270e68b3c72
+# @run: haxelib run-dir markdown ${HAXE_LIBCACHE}/markdown/1.0.1/github/a45355af4d258e9e89238d7877e73270e68b3c72
+-cp ${HAXE_LIBCACHE}/markdown/1.0.1/github/a45355af4d258e9e89238d7877e73270e68b3c72/src

@@ -1,0 +1,12 @@
+-lib hxnodejs
+-main app.Run
+#for import Debug
+
+-cp ./ 
+-cp src
+-lib markdown
+-lib tink_anon
+-D no-deprecation-warnings
+-lib asys
+#--js run.js
+--interp

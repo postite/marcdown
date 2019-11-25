@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+    <head>
+        <title>$DOCUMENT_TITLE</title>
+        <meta charset='utf-8'/>
+        <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,400i|IBM+Plex+Sans+Condensed:400,400i|IBM+Plex+Sans:100,100i,400,400i,700,700i|IBM+Plex+Serif:400,400i&display=swap" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="::assetsPath::/styles.css">
+       <script>
+            window.onload = function() {
+                if (document.querySelector("script[type=\"math/tex; mode=display\"]") !== null) {
+                    var mathjax = document.createElement("script");
+                    mathjax.src = "https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML";
+                    document.head.appendChild(mathjax);
+                }
+                if (document.getElementsByTagName("code").length !== 0) {
+                    var highlight = document.createElement("script");
+                    var highlightcss = document.createElement("link");
+                    highlight.src = "http://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/highlight.min.js";
+                    highlightcss.rel = "stylesheet";
+                    highlightcss.href = "http://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.2.0/styles/default.min.css";
+                    highlight.onload = function() {hljs.initHighlighting();};
+                    document.head.appendChild(highlight);
+                    document.head.appendChild(highlightcss);
+                }
+            }
+        </script>
+    </head>
+    <body>
+            <header>
+                    <img src="::assetsPath::/logo.png" alt="" srcset="">
+                    <h6>Eclex - groupe Saint Cyp</h6>
+                    <h3>le KESKISPASS</h3>
+                    <h6>(#°1 Novembre 2019)</h6>
+            </header>
+        <article>
+            ::content::
+        </article>
+        <footer>
+                <hr>
+                 <blockquote>
+                     n'oubliez pas le CETAKI et le QIFAITKOI
+                 </blockquote>
+            </footer>
+    </body>
+</html>
